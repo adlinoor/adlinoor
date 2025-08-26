@@ -21,20 +21,14 @@ I enjoy working across the stack, writing clean and maintainable code, and conti
 
 ---
 
-## Selected Projects  
-- **Job Board App** – A platform connecting job seekers and employers.  
-- **E-Commerce Platform** – Full-stack application with cart, payments, and admin dashboard.  
-- **Personal Portfolio** – Website built with Next.js and Tailwind CSS.  
-
----
-
-## GitHub Stats  
-![Adli's GitHub stats](https://github-readme-stats.vercel.app/api?username=adlinoor&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adlinoor&layout=compact&theme=default)
+## Featured Projects  
+- [Job Board App](https://github.com/adlinoor/job-board) – A platform connecting job seekers and employers.  
+- [E-Commerce Platform](https://github.com/adlinoor/miniproject-web) – Full-stack application with cart, payments, and admin dashboard.  
+- [Portfolio Website](https://cc2portfolio.vercel.app/) – Personal website built with Next.js and Tailwind CSS.  
 
 ---
 
 ## Contact  
-- Website: [https://cc2portfolio.vercel.app/](https://cc2portfolio.vercel.app/)  
+- Instagram: [https://instagram.com/adlinoor](https://instagram.com/adlinoor)  
 - LinkedIn: [linkedin.com/in/adlinoor](https://linkedin.com/in/adlinoor)  
 - Email: adli28noor@gmail.com  
