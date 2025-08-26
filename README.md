@@ -40,7 +40,7 @@ Currently, I’m expanding my knowledge in **cloud deployment** and **scalable b
 
 ---
 
-## Contact  
-[<img src="https://img.icons8.com/ios-filled/30/instagram-new.png" alt="Instagram"/>](https://instagram.com/adlinoor)
-[<img src="https://img.icons8.com/ios-filled/30/linkedin.png" alt="LinkedIn"/>](https://linkedin.com/in/adlinoor)
-[<img src="https://img.icons8.com/ios-filled/30/gmail-new.png" alt="Gmail"/>](mailto:adli28noor@gmail.com)
+## Contact    
+[<img src="https://img.icons8.com/color/30/instagram-new.png" alt="Instagram"/>](https://instagram.com/adlinoor)
+[<img src="https://img.icons8.com/color/30/linkedin.png" alt="LinkedIn"/>](https://linkedin.com/in/adlinoor)
+[<img src="https://img.icons8.com/color/30/gmail-new.png" alt="Gmail"/>](mailto:adli28noor@gmail.com)
