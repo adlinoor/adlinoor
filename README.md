@@ -23,7 +23,7 @@ I enjoy working across the stack, writing clean and maintainable code, and conti
 
 ## Featured Projects  
 - [Job Board App](https://github.com/adlinoor/job-board) – A platform connecting job seekers and employers.  
-- [E-Commerce Platform](https://github.com/adlinoor/miniproject-web) – Full-stack application with cart, payments, and admin dashboard.  
+- [Event Management App](https://github.com/adlinoor/miniproject-web) – A web-based event management platform.
 - [Portfolio Website](https://cc2portfolio.vercel.app/) – Personal website built with Next.js and Tailwind CSS.  
 
 ---
