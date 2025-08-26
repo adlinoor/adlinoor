@@ -1,7 +1,5 @@
-# Adli – Full Stack Web Developer  
-
-Hello, I'm Adli. A Full Stack Web Developer with experience in building modern web applications end-to-end.  
-I specialize in designing efficient APIs, managing databases, and developing responsive, user-friendly interfaces.  
+Hello, I'm Adli Noor. A Musician crossing the border to Full Stack Web Development with experience in building modern web applications end-to-end.  
+In this field i specialize in designing efficient APIs, managing databases, and developing responsive, user-friendly interfaces.  
 I enjoy working across the stack, writing clean and maintainable code, and continuously learning new technologies to improve my craft.  
 
 ---
@@ -40,7 +38,9 @@ Currently, I’m expanding my knowledge in **cloud deployment** and **scalable b
 
 ---
 
-## Contact    
+## Contact  
 [<img src="https://img.icons8.com/color/30/instagram-new.png" alt="Instagram"/>](https://instagram.com/adlinoor)
 [<img src="https://img.icons8.com/color/30/linkedin.png" alt="LinkedIn"/>](https://linkedin.com/in/adlinoor)
 [<img src="https://img.icons8.com/color/30/gmail-new.png" alt="Gmail"/>](mailto:adli28noor@gmail.com)
+
+
