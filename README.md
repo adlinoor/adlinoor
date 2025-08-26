@@ -6,6 +6,13 @@ I enjoy working across the stack, writing clean and maintainable code, and conti
 
 ---
 
+## About Me  
+I’m passionate about solving problems through technology and bringing ideas to life with code.  
+My focus is on writing clean, scalable, and efficient solutions, whether for personal projects or real-world applications.  
+Currently, I’m expanding my knowledge in **cloud deployment** and **scalable backend architectures**.  
+
+---
+
 ## Tech Stack  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
@@ -22,13 +29,18 @@ I enjoy working across the stack, writing clean and maintainable code, and conti
 ---
 
 ## Featured Projects  
-- [Job Board App](https://github.com/adlinoor/job-board) – A platform connecting job seekers and employers.  
-- [Event Management App](https://github.com/adlinoor/miniproject-web) – A web-based event management platform.
-- [Portfolio Website](https://cc2portfolio.vercel.app/) – Personal website built with Next.js and Tailwind CSS.  
+- [**Job Board App**](https://github.com/adlinoor/job-board)  
+  A platform that connects job seekers and employers with features like job posting, applications, and subscriptions.  
+
+- [**Event Management App**](https://github.com/adlinoor/miniproject-web)  
+  A web-based event management system for organizing, scheduling, and tracking events.  
+
+- [**Portfolio Website**](https://cc2portfolio.vercel.app/)  
+  My personal portfolio built with Next.js and Tailwind CSS, showcasing selected works and skills.  
 
 ---
 
 ## Contact  
-- Instagram: [https://instagram.com/adlinoor](https://instagram.com/adlinoor)  
-- LinkedIn: [linkedin.com/in/adlinoor](https://linkedin.com/in/adlinoor)  
-- Email: adli28noor@gmail.com  
+[<img src="https://img.icons8.com/ios-filled/30/instagram-new.png" alt="Instagram"/>](https://instagram.com/adlinoor)
+[<img src="https://img.icons8.com/ios-filled/30/linkedin.png" alt="LinkedIn"/>](https://linkedin.com/in/adlinoor)
+[<img src="https://img.icons8.com/ios-filled/30/gmail-new.png" alt="Gmail"/>](mailto:adli28noor@gmail.com)
